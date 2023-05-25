@@ -1,0 +1,5 @@
+22.05 ther is sun. Temperature is 20 degrees in Chernihiv
+26.04 ther is rain. Temperature is 20 degrees in Chernihiv
+25.05 weather is 16 degrees in Lviv; mostly sunny;
+26.05 weather is 18 degrees in Lviv; rainy;
+27.05 weather is 20 degrees in Lviv; rainy;
